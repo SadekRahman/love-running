@@ -53,7 +53,7 @@ h1, h2 {
     height: 600px;
     width: 100%;    
     overflow: hidden;
-    
+
     position: relative;
 }
 #cover-text, #cover-text h2 {
@@ -62,7 +62,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-image.webp) no-repeat center center;
+    background: url(../images/shutterstock_1741426311.jpg.optimal.jpg) no-repeat center center;
 
     /*animates zoom effect on loading page*/
     animation-name: hero-zoom;
